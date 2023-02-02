@@ -9,7 +9,6 @@ De plus, les chargés de relation client ont fait remonter le fait que les clien
 
 Elle décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement.
 
-
 *************************************
 *************************************
 Notre mission:
@@ -19,9 +18,6 @@ Notre mission:
 <u>Dans ce dépôt, vous trouverez :</u>
 
  - Un dossier avec le Notebook Jupyter pour l'étude des données.
- - Un dossier avec les donnée .csv
+ - Un dossier avec la présentation
  - Un dossier avec la note technique qui explique en détails la construction et les résultats du modèle.
- - Un dossier avec la configuration locale de l'API. Dans le but de comprendre le fonctionnement de Flask, cette "version" de l'API s'appuie sur deux fichiers .py :
-    - API.py qui est le fichier Flask contenant la partie backend.
-    - DASHBOARD.py contient la partie Frontend codée avec Streamlit.
  - Un dossier avec la configuration déployée sur Heroku.
